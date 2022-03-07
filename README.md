@@ -29,11 +29,10 @@ Users should be able to:
 
 ![](./images/Screenshot-mobile-Frontend-Mentor-Single-Price-Grid-Component.png)
 
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Geo0510/single-price-grid-component]
+- Live Site URL: [https://geo0510.github.io/single-price-grid-component/]
 
 ## My process
 
@@ -44,8 +43,6 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
@@ -95,7 +92,6 @@ I undertand more grid now and I feel great about it, I going to practice more wi
 ### Continued development
 
 I'll practice grid with flexbox and responsive layout.
-
 
 ## Author
 
