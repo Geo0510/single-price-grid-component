@@ -23,8 +23,12 @@ body {
   color: hsl(71, 73%, 54%);
 }
 
+.subtitle_cards{
+  font-size: 20px;
+}
+
 .cards {
-  padding: 30px;
+  padding: 20px 30px;
 }
 
 .card_down-left,
@@ -63,6 +67,7 @@ body {
 .btn:hover {
   cursor: pointer;
   opacity: 0.7;
+  transition: all ease-out 0.5s;
 }
 
 .card_down-right {
@@ -73,7 +78,7 @@ body {
 }
 
 .card_down-right p {
-  width: 80%;
+  width: 70%;
 }
 
 .attribution {
@@ -98,6 +103,11 @@ body {
     margin: 0;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
+  }
+
+  .text_card-up{
+    display: inline-block;
+    margin-top: 10px;
   }
 
   .card_up {
