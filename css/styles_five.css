@@ -10,7 +10,7 @@ body {
 }
 
 .container_card {
-  max-width: 600px;
+  max-width: 650px;
   width: 80%;
   margin: 5em auto 0;
 }
@@ -35,8 +35,8 @@ body {
 .card_up {
   background-color: #fff;
   color: hsl(218, 22%, 67%);
-  border-top-left-radius: 15px;
-  border-top-right-radius: 15px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
 }
 
 .card_down-left {
@@ -67,8 +67,8 @@ body {
 
 .card_down-right {
   background-color: hsl(179, 62%, 43%);
-  border-bottom-right-radius: 15px;
-  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
   opacity: 0.8;
 }
 
@@ -105,11 +105,11 @@ body {
   }
 
   .card_down-left {
-    border-bottom-left-radius: 15px;
+    border-bottom-left-radius: 5px;
   }
 
   .card_down-right {
     border-bottom-left-radius: 0;
-    border-bottom-right-radius: 15px;
+    border-bottom-right-radius: 5px;
   }
 }
